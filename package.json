@@ -2,7 +2,7 @@
   "name": "backend-repo",
   "version": "1.0.0",
   "description": "this is a repository to practise backend",
-  "type":"module",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon src/index.js"
@@ -12,5 +12,8 @@
     "backend"
   ],
   "author": "vedanshi",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^3.2.5"
+  }
 }
