@@ -1,0 +1,1 @@
+//nodemon starts server as soon as your file gets saved
